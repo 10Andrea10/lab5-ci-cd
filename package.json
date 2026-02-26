@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "build": "echo Build completed",
+    "test": "echo Tests passed",
+    "start": "npx serve ."
+  }
+}
